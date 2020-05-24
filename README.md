@@ -1,2 +1,2 @@
-# bounceOff-.algorithm
-own library with bounceOff and isTouching algorithm.
+# bounceOffAlgorithm
+Algorithm to bounce off two objects
